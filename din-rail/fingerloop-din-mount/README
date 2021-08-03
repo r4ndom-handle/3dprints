@@ -1,0 +1,5 @@
+This DIN rail mount relies on spring-stiffness to lock an object onto DIN rail while making said object easy to remove and reposition.
+The mount prints easily and quickly on its own; certain objects may support the mount through a boolean-join in your CAD package, while other objects
+may be easier to print separately and the mount(s) could be added to another 3d print by screws, glue, or heat-welding.
+The design is currently in beta because of inadequate locking in the direction of the rail, resulting in side-to-side motion for heavier objects in mobile
+mounting scenarios.
